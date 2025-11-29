@@ -17,6 +17,7 @@ h1 {
   font-size: 18px;
   padding: 3px 10px;
   cursor: pointer;
+  margin-top: 20px;
 }
 
 .topbarbuttongrey {
@@ -28,5 +29,6 @@ h1 {
   font-weight: bold;
   font-size: 18px;
   padding: 3px 10px;
+  margin-top: 20px;
 }
 
