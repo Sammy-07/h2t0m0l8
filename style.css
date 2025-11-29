@@ -7,6 +7,7 @@ body {
   background-color: white;
   color: black;
   border-radius: 100px;
+  border-color: black;
   font-weight: bold;
   font-size: 20px;
 }
@@ -15,6 +16,7 @@ body {
   background-color: black;
   color: white;
   border-radius: 100px;
+  border-color: white;
   font-weight: bold;
   font-size: 20px;
 }
