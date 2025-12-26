@@ -1,11 +1,12 @@
 @font-face {
-  font-family: 'wiiufont';
+  font-family: 'montserrat';
   src: url('font/Montserrat.ttf') format('truetype');
 }
 
 body {
   text-align: center;
   background-color: lightgrey;
+  font-family: montserrat;
 }
 
 h1 {
